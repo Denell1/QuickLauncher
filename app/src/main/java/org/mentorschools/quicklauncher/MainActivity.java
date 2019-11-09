@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
                 if (gotoGoogle.resolveActivity(getPackageManager()) != null); {
                 startActivity(gotoGoogle);
                 }
+                **This is my test code
 
             }
         });
